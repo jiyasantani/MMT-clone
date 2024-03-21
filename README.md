@@ -1,6 +1,6 @@
 # my_app
 
-A new Flutter project.
+Make My Trip Clone
 
 ## Getting Started
 
